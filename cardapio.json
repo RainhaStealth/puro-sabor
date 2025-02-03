@@ -1,0 +1,128 @@
+{
+    "Id 1":[
+        {
+            "nome": "Arroz, Feijoada, Couve e Farofa",
+            "imagem": "IMG-20250125-WA0006.jpg  "
+        }
+    ],
+
+    "Id 2": [
+        {
+            "nome":"Arroz, Feijão, Bife Parmegiana e Batata Patalha",
+            "imagem": "IMG-20250125-WA0005.jpg"
+        }
+    ],
+       
+    "Id 3": [
+        {
+            "nome": "Arroz, Feijão, Estrogonofe, Frango e Batata Palha",
+            "imagem": "IMG-20250125-WA0004.jpg"
+        }
+
+    ],
+
+    "Id 4":[
+        {
+            "nome": "Arroz, Feijão, Carne Assada, Frango Assado, Farofa e Macarronese",
+            "imagem": "IMG-20250125-WA0007.jpg"
+        }
+    ],
+
+    "Id 5": [
+
+        {
+            "nome": "Arroz, Carne com Mandioca, Macarronada e Salada",
+            "imagem": "IMG-20250125-WA0010.jpg"
+        }
+    ],
+
+    "Id 6": [
+
+        {
+            "nome": "Arroz, Feijão, Lasanha a Bolanhesa, Frango Empanado e Salada",
+            "imagem": "IMG-20250125-WA0046.jpg"
+        }
+    ],
+
+    "Id 7": [
+        {
+            "nome": "Arroz, Feijão, Panqueca de Carne, Frango ao Molho com Polenta e Salada",
+            "imagem": "IMG-20250125-WA0013.jpg"
+        }
+    ],
+
+    "Id 8": [
+
+        {
+            "nome": "Arroz, Feijão, Carne Assada no Forno com Batata, Farofa e Salada",
+            "imagem": "IMG-20250125-WA0016.jpg"
+        }
+    ],
+
+    "Id 9": [
+
+        {
+            "nome": "Arroz, Feijão, Carne Assada, Frango Assado, Carne de Porco Assada e Salada de Maionese",
+            "imagem": "IMG-20250125-WA0031.jpg"
+        }
+    ],
+
+    "Id 10": [
+        {
+            "nome": "Arroz, Feijão, Costela Assada no Forno, Cabutiam, Farofa e Salada",
+            "imagem": "IMG-20250125-WA0071.jpg"
+        }
+    ],
+
+    "Id 11": [
+        {
+            "nome": "Arroz, Feijão, Almodegas, Frango Assado, Macarronada e Salada de Maionese",
+            "imagem": "IMG-20250125-WA0023.jpg"
+        }
+    ],
+
+    "Id 12": [
+
+        {
+            "nome": "Arroz, Feijão, Carne de Panela, Frango Frito, Mandioca, Farofa e Salada",
+            "imagem": "IMG-20250125-WA0025.jpg"
+        }
+    ],
+
+    "Id 13": [
+        {
+            "nome": "Arroz, Feijão, Bife Milanesa, Frango com Batata e Salada",
+            "imagem": "IMG-20250125-WA0072.jpg"
+        }
+    ],
+
+    "Id 14": [
+        {
+            "nome": "Arroz, Feijão, Carne Assada, Frango Assado, Farofa, Salada de Maionese",
+            "imagem": "IMG-20250125-WA0041.jpg"
+        }
+    ],
+    
+    "Id 15": [
+
+        {
+            "nome": "Arroz, Feijão, Carne com Mandioca, Macarrão a Bolonhesa, Farofa e Salada",
+            "imagem": "IMG-20250125-WA0010.jpg"
+        }
+    ],
+
+    "Id 16": [
+        {
+            "nome": "Arroz, Feijão, Rocambole de Carne Moída, Frango Empanado, Creme de Milho e Salada",
+            "imagem": "IMG-20250125-WA0054.jpg"
+        }
+    ],
+
+    "Id 17": [
+        {
+            "nome": "Arroz, Feijão, Lasanha de Frango, Panqueca de Carne, Batata Frita e Salada",
+            "imagem": "IMG-20250125-WA0064.jpg"
+        }
+    ]
+    
+}
